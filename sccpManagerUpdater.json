@@ -15,7 +15,7 @@
     "supported": {
         "version": "13.0"
     },
-    "location": "https://codeload.github.com/chan-sccp/sccp_manager/tar.gz/refs/tags/v14.2.0.3",
-    "md5sum": "9aff57a6553a4a3649e056013fe1758f",
+    "location": "https://codeload.github.com/chan-sccp/sccp_manager/tar.gz/refs/heads/develop",
+    "md5sum": "1de56156bfa147d61fe01bb72be15f47",
     "packaged": "1623001021"
 }
